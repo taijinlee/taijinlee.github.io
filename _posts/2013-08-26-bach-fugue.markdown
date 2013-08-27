@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Beginnings of the Bach Fugue"
+title:  "The Beginnings of a Bach Fugue"
 date:   2013-08-26
 categories: piano bach
 ---
