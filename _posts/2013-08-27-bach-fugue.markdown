@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First quarter of Bach Fugue 1"
-date:   2013-08-26
+date:   2013-08-27
 categories: piano bach
 ---
 
