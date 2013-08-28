@@ -7,16 +7,6 @@ categories: piano bach mendelssohn
 
 Some more Bach, and a taste of how I'm practicing Mendelssohn Variations. This excerpt is variation 16, one that scares the begeezers out of me. After listening to it on Spotify, I realized that I was practicing it about 3x slower than it is at tempo, so my quick attempt to bring it up to speed and make sure my fingerings work.
 
-<audio controls>
-  <source src="/audio/2013-08-27-bach fugue-half.mp3" />
-  <source src="/audio/2013-08-27-bach-fugue-half.ogg" />
+{% include audioTags.html fileName="2013-08-27-bach fugue-half" description="Bach Fugue first half 2013-08-27" %}
 
-  Download Bach Fugue 2013-08-27 first half [MP3](/audio/2013-08-27-bach-fugue-half.mp3) [OGG](/audio/2013-08-27-bach-fugue-half.ogg)
-</audio>
-
-<audio controls>
-  <source src="/audio/2013-08-27-mendelssohn-variations-serieuses-var16-practice.mp3" />
-  <source src="/audio/2013-08-27-mendelssohn-variations-serieuses-var16-practice.ogg" />
-
-  Download Mendelssohn Var 16 Practice 2013-08-27 [MP3](/audio/2013-08-27-mendelssohn-variations-serieuses-var16-practice.mp3) [OGG](/audio/2013-08-27-mendelssohn-variations-serieuses-var16-practice.ogg)
-</audio>
+{% include audioTags.html fileName="2013-08-27-mendelssohn-variations-serieuses-var16-practice" description="Mendelssohn Var 16 Practice 2013-08-27" %}

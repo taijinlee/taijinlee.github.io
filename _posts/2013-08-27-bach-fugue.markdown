@@ -9,16 +9,6 @@ I had about 30-40 minutes this morning to practice a little, so I concentrated o
 
 Now that I'm listening to them, I think I also need to work with a metronome and I obviously need to get a better recording setup too ...
 
-<audio controls>
-  <source src="/audio/2013-08-27-bach-fugue-firstQuarter.mp3" />
-  <source src="/audio/2013-08-27-bach-fugue-firstQuarter.ogg" />
+{% include audioTags.html fileName="2013-08-27-bach-fugue-firstQuarter" description="Bach Fugue first quarter 1 2013-08-27" %}
 
-  Download Bach Fugue 2013-08-27 first quarter 1 [MP3](/audio/2013-08-27-bach-fugue-firstQuarter.mp3) [OGG](/audio/2013-08-27-bach-fugue-firstQuarter.ogg)
-</audio>
-
-<audio controls>
-  <source src="/audio/2013-08-27-bach-fugue-firstQuarter2.mp3" />
-  <source src="/audio/2013-08-27-bach-fugue-firstQuarter2.ogg" />
-
-  Download Bach Fugue 2013-08-27 first quarter 2 [MP3](/audio/2013-08-27-bach-fugue-firstQuarter2.mp3) [OGG](/audio/2013-08-27-bach-fugue-firstQuarter2.ogg)
-</audio>
+{% include audioTags.html fileName="2013-08-27-bach-fugue-firstQuarter2" description="Bach Fugue first quarter 2 2013-08-27" %}
