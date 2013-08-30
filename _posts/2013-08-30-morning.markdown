@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Exerpts of the other pieces"
+date:   2013-08-30
+categories: piano mendelssohn grieg
+---
+
+I've been mesemerized by Wedding Day at Troldhaugen (Grieg) since I was a kid when a fellow student performed it gracefully. The piece has a lot more notes and dissonance than I had ever played before. I've since used it as a sight reading exercise, only now trying to perfect it. At this point, I'm in the middle of memorizing the A section and understanding the B section (it goes A-B-A coda).
+
+{% include audioTags.html fileName="2013-08-30-greig-A-section" description="Wedding Day at Troldhaugen Section A memorized 2013-08-30" %}
+
+As alluded in a previous post, I'm working on Mendelssohn Variations Serieuses. At this point, I can basically play through the entire piece, but still haven't figured out what I need to work on yet. This is a recording of the first five variations to investigate
+
+{% include audioTags.html fileName="2013-08-30-mendelssohn-var-1-5" description="Variations Serieuses Variations 1-5 2013-08-30" %}
+
+Quickling realizing my phrasing is sucking in the first variation, here's my updating version, hopefully a little better
+
+{% include audioTags.html fileName="2013-08-30-mendelssohn-var-1-half" description="Variations Serieuses Variation 1, first half 2013-08-30" %}
