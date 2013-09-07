@@ -34,7 +34,9 @@
           <a class="extra" href="/">home</a>
         </div>
 
-        {{ content }}
+        <div id="content">
+          {{ content }}
+        </div>
 
         <div class="footer">
           <div class="contact">
@@ -50,6 +52,11 @@
         </div>
       </div>
     </div> <!-- /container -->
+
+
+    <script>
+      {% include analytics.js %}
+    </script>
 
   </body>
 </html>
