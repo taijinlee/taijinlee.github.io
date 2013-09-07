@@ -1,10 +1,6 @@
-console.log('{{ page.date }}');
 var today = new Date('{{ page.date }}');
-var todayString = [today.getFullYear(), (today.getMonth()+1), today.getDate()].join('');
-console.log(todayString);
+var todayString = [today.getFullYear(), Util.leftZeroPad(today.getMonth()+1, 2), Util.leftZeroPad(today.getDate(), 2)].join('');
 
 document.getElementById('content').addEventListener('play', function(event) {
-  console.log(event);
-  console.log(new Date('{{ page.date }}'));
-  ga('set', 'metric1', '{{ page.date }}');
+  ga('set', 'metric1', Number(todayString));
 }, true);
