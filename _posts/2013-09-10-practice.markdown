@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Returning to practice"
+date:   2013-09-10
+categories: piano
+---
+
+After a week of out-of-town vacation, I wasn't sure how I'd sound. Turns out muscle memory is better than I expected. Here's some of my practicing.
+
+Dealing with Bach is like wrangling an aligator as usual. Still learning the last phrase before the middle.
+
+{% include audioTags.html fileName="2013-09-10-bach-last-phrase-before-mid" description="Bach Fugue Last Phrase before middle 2013-09-10" %}
+
+THis is a long memorization practice section of Grieg's Wedding Day. I was hoping to get a really good take at the end and ended up practicing poorly. I'll never go for a take again. Ugh.
+
+{% include audioTags.html fileName="2013-09-10-wedding-day-A-section-practice" description="Wedding Day section A Practice 2013-09-10" %}
+
+And finally, starting up some real Liszt practicing. I think Hungarian Rhapsodies are just in my hands. These chords come pretty easily to me, but still takes a while to just start recognizing one phrase.
+
+{% include audioTags.html fileName="2013-09-10-liszt-beginnings-practice-raw" description="Liszt Hungarian Rhapsody 10, first phrase 2013-09-10" %}
